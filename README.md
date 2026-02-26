@@ -1,41 +1,55 @@
-🧮 Calculadora Simples em Python
+# 🧮 Calculadora em Python
 
-Este projeto é uma calculadora de terminal desenvolvida em Python.
-Ela permite realizar as quatro operações matemáticas básicas através de um menu interativo.
+Este é um projeto simples de **calculadora no terminal**, desenvolvido em Python, que realiza as quatro operações matemáticas básicas.
 
-Projeto criado com o objetivo de praticar:
+O objetivo do projeto foi praticar lógica de programação, uso de funções e estruturas de repetição.
 
-Funções
+---
 
-Estruturas condicionais (if/elif/else)
+## 🚀 Funcionalidades
 
-Laços de repetição (while)
+✔️ Somar dois números 
+✔️ Subtrair dois números
+✔️ Multiplicar dois números
+✔️ Dividir dois números
+✔️ Menu interativo no terminal
 
-Entrada e saída de dados
+---
 
-🚀 Funcionalidades
+## 💻 Tecnologias utilizadas
 
-✅ Somar dois números
-✅ Subtrair dois números
-✅ Multiplicar dois números
-✅ Dividir dois números
-✅ Menu interativo no terminal
+* Python 3
 
-🛠️ Tecnologias utilizadas
+---
 
-Python 3
+## 📚 Conceitos praticados
 
-▶️ Como executar o projeto
+* Funções (`def`)
+* Estruturas condicionais (`if`, `elif`, `else`)
+* Laço de repetição (`while`)
+* Entrada de dados com `input`
+* Lógica de programação
 
-1️⃣ Instale o Python na sua máquina
-2️⃣ Baixe ou clone este repositório
-3️⃣ Execute o arquivo no terminal:
+---
 
+## ▶️ Como executar o projeto
+
+1. Clone este repositório ou baixe o arquivo
+2. Abra o terminal na pasta do projeto
+3. Execute o comando:
+
+```bash
 python calculadora.py
-🎯 Objetivo do projeto
+```
 
-Este projeto faz parte do meu aprendizado inicial em programação e tem como objetivo praticar lógica e organização de código em Python.
+---
 
-👩‍💻 Autora
+## 🎯 Objetivo do projeto
 
-Ana Clara
+Este projeto faz parte do meu processo de aprendizado em programação, onde estou praticando conceitos fundamentais de Python e lógica.
+
+---
+
+## 👩‍💻 Autora
+
+Ana Clara Peressim
